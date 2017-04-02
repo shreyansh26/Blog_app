@@ -6,7 +6,20 @@
                 {{ post.published_date }}
             </div>
         {% endif %}
-        <h1>{{ post.title }}</h1>
-        <p>{{ post.text|linebreaksbr }}</p>
+        {% if user.is_authenticated %}
+          <a href="{% url 'post_edit' pk=post.pk %}" class="btn btn-default"><span class="glyphicon glyphicon-pencil"></span></a>
+        {% endif %}
+          <h1>{{ post.title }}</h1>
+          <p>{{ post.text|linebreaksbr }}</p>
     </div>
 {% endblock %}
+<!--
+<style type="text/css">
+.content {
+  display: inline-block;
+  width: 200px;
+  height: 100px;
+  margin: 1em;
+}
+</style>
+-->
