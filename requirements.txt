@@ -36,7 +36,6 @@ phonenumberslite==8.3.3
 Pillow==4.0.0
 pyasn1==0.1.9
 pycparser==2.17
-pygobject==3.20.0
 pyinotify==0.9.6
 pyliblzma==0.5.3
 PyOpenGL==3.0.2
@@ -55,13 +54,11 @@ requests-oauthlib==0.8.0
 scipy==0.17.0
 selenium==3.0.2
 shellescape==3.4.1
-SimpleGUICS2Pygame==1.9.0
 six==1.10.0
 slugify==0.0.1
 splinter==0.7.5
 telepot==10.3
 tqdm==4.11.2
-twilio==5.7.0
 unity-lens-photos==1.0
 urllib3==1.19.1
 Werkzeug==0.12.1
