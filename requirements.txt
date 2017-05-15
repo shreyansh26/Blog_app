@@ -58,7 +58,6 @@ slugify==0.0.1
 splinter==0.7.5
 telepot==10.3
 tqdm==4.11.2
-unity-lens-photos==1.0
 urllib3==1.19.1
 Werkzeug==0.12.1
 whitenoise==3.3.0
