@@ -1,6 +1,6 @@
 Babel==2.4.0
 beautifulsoup4==4.5.1
-binwalk==2.1.1
+binwalk
 bs4==0.0.1
 cffi==1.9.1
 chardet==2.3.0
