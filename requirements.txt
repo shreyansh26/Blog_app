@@ -26,7 +26,6 @@ itsdangerous==0.24
 Jinja2==2.9.6
 lxml==3.5.0
 MarkupSafe==1.0
-matplotlib==1.5.1
 moviepy==0.2.2.13
 Naked==0.1.31
 numpy==1.11.0
@@ -37,7 +36,6 @@ phonenumberslite==8.3.3
 Pillow==4.0.0
 pyasn1==0.1.9
 pycparser==2.17
-pygame===1.9.1release
 pygobject==3.20.0
 pyinotify==0.9.6
 pyliblzma==0.5.3
