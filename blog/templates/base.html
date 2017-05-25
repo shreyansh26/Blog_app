@@ -1,11 +1,16 @@
 <!DOCTYPE html>
+{% load staticfiles %}
 <html>
   <head>
+    <link rel="shortcut icon" href="{% static 'favicon.ico' %}"/>
+    <link rel="stylesheet" href="{% static 'css/register.css' %}">
+    <link href="//fonts.googleapis.com/css?family=Acme" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Alice" rel="stylesheet">
     <title>{% block head_title %}{% endblock %}</title>
     {% block extra_head %}
     {% endblock %}
   </head>
-  <body>
+  <body id="bg" style="background-image: url('{% static "bg3.jpg" %}')";>
     {% block body %}
 
     {% if messages %}
