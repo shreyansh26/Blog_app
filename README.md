@@ -15,4 +15,4 @@ The blog also provides user authentication for users to SignIn, SignUp, and even
 
 * To view Blog webpage -
 
-  [Shreyansh's Blog] (https://shreyansh26blog.herokuapp.com/ "Blog")
+  [Shreyansh's Blog](https://shreyansh26blog.herokuapp.com/ "Blog")
