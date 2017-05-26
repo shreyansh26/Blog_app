@@ -1,0 +1,33 @@
+html, body {
+    margin: 0;
+    height: 100%;
+    font-family: 'Alice', serif;
+    font-size: 120%;
+}
+
+#bg {
+  background-size: 1800px 900px;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-attachment: fixed;
+}
+
+strong, h1 {
+  font-family: 'Acme', sans-serif;
+}
+
+strong {
+  font-size: 150%;
+}
+
+h1{
+  font-size: 170%;
+}
+
+.socialaccount_providers {
+  text-align: center;
+}
+
+.login, .login-or {
+  text-align: center;
+}
