@@ -24,7 +24,7 @@ The blog also provides user authentication for users to SignIn, SignUp, and even
    ```
 2. Enter your username, email and password.
 
-3. Enter following in terminal to run server on localhost:
+3. Enter following in terminal to run server on localhost:  
    `python manage.py runserver`
 
 4. Visit [http://localhost:8000](http://localhost:8000) to view the app. Login to admin area [http://localhost:8000/admin](http://localhost:8000/admin) to create, manage, edit and delete users, posts and comments. 
