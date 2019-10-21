@@ -58,7 +58,7 @@ splinter==0.7.5
 telepot==10.3
 tqdm==4.11.2
 urllib3==1.19.1
-Werkzeug==0.12.1
+Werkzeug==0.15.3
 whitenoise==3.3.0
 psycopg2==2.6.2
 
