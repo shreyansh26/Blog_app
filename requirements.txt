@@ -45,7 +45,7 @@ pytesseract==0.1.6
 python-dateutil==2.4.2
 python-openid==2.2.5
 pytz==2016.10
-PyYAML==3.12
+PyYAML==5.1
 queuelib==1.4.2
 requests==2.12.4
 requests-oauthlib==0.8.0
