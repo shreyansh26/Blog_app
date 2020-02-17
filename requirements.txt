@@ -15,7 +15,7 @@ django-phonenumber-field==1.2.0
 django-twilio==0.8.0
 enum34==1.1.6
 facepy==1.0.8
-Flask==0.12.1
+Flask==1.0
 gunicorn==19.7.1
 html5lib==0.999
 httplib2==0.10.3
