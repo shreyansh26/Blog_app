@@ -47,7 +47,7 @@ python-openid==2.2.5
 pytz==2016.10
 PyYAML==5.1
 queuelib==1.4.2
-requests==2.12.4
+requests==2.20.0
 requests-oauthlib==0.8.0
 scipy==0.17.0
 selenium==3.0.2
