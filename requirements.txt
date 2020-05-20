@@ -18,7 +18,7 @@ facepy==1.0.8
 Flask==1.0
 gunicorn==19.7.1
 html5lib==0.999
-httplib2==0.10.3
+httplib2==0.18.0
 idna==2.2
 imageio==2.1.2
 ipaddress==1.0.18
