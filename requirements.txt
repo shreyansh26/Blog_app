@@ -24,7 +24,7 @@ imageio==2.1.2
 ipaddress==1.0.18
 itsdangerous==0.24
 Jinja2==2.9.6
-lxml==3.5.0
+lxml==4.6.2
 MarkupSafe==1.0
 moviepy==0.2.2.13
 Naked==0.1.31
