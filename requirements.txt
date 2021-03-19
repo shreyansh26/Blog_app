@@ -23,7 +23,7 @@ idna==2.2
 imageio==2.1.2
 ipaddress==1.0.18
 itsdangerous==0.24
-Jinja2==2.9.6
+Jinja2==2.11.3
 lxml==3.5.0
 MarkupSafe==1.0
 moviepy==0.2.2.13
