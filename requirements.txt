@@ -17,7 +17,7 @@ enum34==1.1.6
 facepy==1.0.8
 Flask==1.0
 gunicorn==19.7.1
-html5lib==0.999
+html5lib==0.999999999
 httplib2==0.10.3
 idna==2.2
 imageio==2.1.2
